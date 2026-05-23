@@ -1,39 +1,19 @@
 <div align="center">
 
-<!-- 🔥 ANIMATED HEADER BANNER - MAXIMUM CHAOS MODE 🔥 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SURAJ%20RAO&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=30&desc=⚠️%20WARNING:%20Data%20Scientist%20at%20Work.%20Expect%20Overfitting.%20⚠️&descAlignY=55&descSize=16" width="100%"/>
+<!-- 🖥️ TERMINAL SYSTEM LOGS HEADER BANNER 🖥️ -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=SURAJ%20RAO&fontSize=75&fontColor=fff&animation=twinkling&desc=🤖%20Data%20Scientist%20%7C%20Full%20Stack%20Developer%20💻&descAlignY=65&descSize=18" width="100%"/>
 
 <br>
 
-<!-- THE MOST DRAMATIC ENTRANCE EVER -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+<!-- SYSTEM BOOT INTERACTIVE LOADER -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
 
 <br>
 
-<!-- ANIMATED TYPING SVG - NOW WITH MORE CHAOS -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%91%8B+Yo!+I'm+Suraj+Rao+%26+I'm+BUILT+DIFFERENT+%F0%9F%92%AA;%F0%9F%A7%A0+Data+Science+student+who+overfits+to+coffee+%E2%98%95%EF%B8%8F;%F0%9F%90%9B+I+don't+create+bugs%2C+I+create+statistical+anomalies+%F0%9F%93%88;%F0%9F%94%A5+My+brain+has+too+many+epochs+running;%F0%9F%8E%AF+I+debug+at+3AM+like+a+absolute+legend;%F0%9F%92%80+Sleep+is+just+a+weak+regularization+technique;%F0%9F%A4%AF+I+THINK+THEREFORE+I+OVERFIT" alt="Typing SVG" /></a>
-
-</div>
-
----
-
-<!-- 🎭🎭🎭 THE LEGENDARY INTRO - BUCKLE UP 🎭🎭🎭 -->
-
-<div align="center">
-
-## 🚨 STOP SCROLLING. YOU FOUND THE FUNNIEST DATA SCIENTIST ON GITHUB. 🚨
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400">
-
-<br>
-
-> **Plot twist:** I train neural networks and somehow haven't blown up my GPU yet.
-
-<br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=22&duration=2000&pause=500&color=F8D866&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Welcome+to+my+GitHub+%F0%9F%8E%89+Please+keep+your+variables+local;This+profile+is+FDA+approved+for+debugging+relief+%F0%9F%98%82;Side+effects+include:+importing+pandas+as+pd+constantly" alt="Typing SVG" /></a>
+<!-- TERMINAL TYPING CLI SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%E2%9C%A8+System+boot+initialized...;%F0%9F%92%AA+Initializing+Data+Science+Core+Engine;%F0%9F%A7%A0+Warning:+Loss+function+minimization+in+progress;%F0%9F%93%88+I+don't+make+bugs%2C+I+create+statistical+anomalies;%F0%9F%94%A5+MacBook+fans+spinning+at+max+RPM;%F0%9F%92%80+Sleep_dropout_rate+%3D+0.99;%F0%9F%A4%AF+I+THINK+THEREFORE+I+OVERFIT" alt="Typing SVG" /></a>
 
 </div>
 
@@ -41,378 +21,94 @@
 
 <div align="center">
 
-## 🧠 Who Is This Absolute Legend? (It's Me. I'm The Legend.)
+## ⚙️ Profile Query Console
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
-
-</td>
-<td width="50%">
-
-### Hey there! I'm **Suraj Rao** 👋
-
-- 🎓 **Big brain energy** — Mastered the art of googling `ValueError: shapes (x,y) and (z,w) not aligned` before you even design the model
-- 💻 **Data Scientist & Web Dev** — cleaning data on one side and breaking frontend divs on the other
-- 🧠 **200 IQ Moves:** Training models for 20 epochs just to realize I forgot to shuffle the dataset. That's called *learning the hard way*.
-- 🏆 **CEO of "It Converged On My Machine"**
-- 🎭 **Professional at pretending to understand the math behind Support Vector Machines**
-- 🌍 Based in India 🇮🇳 — where neural networks run on chai ☕
-- 🔥 I solve problems that don't exist, then write random regularization to fix it
-- 🤓 **Fun fact:** My sleep schedule is a step function.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<!-- ME EXPLAINING MY CODE -->
-<table>
-<tr>
-<td align="center">
-<b>Me explaining my model to senior devs</b><br><br>
-<img src="https://media.giphy.com/media/gEvab1ilmJjA82FaSV/giphy.gif" width="220">
-</td>
-<td align="center">
-<b>Senior devs looking at my code</b><br><br>
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="220">
-</td>
-<td align="center">
-<b>My model in production</b><br><br>
-<img src="https://media.giphy.com/media/dJYoOVAWf2QkU/giphy.gif" width="220">
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎪 The "About Me" But Make It UNHINGED
-
-</div>
-
-```python
-class SurajRao(DataScientist, FullStackDeveloper, CaffeineDependentLifeForm):
-    
-    def __init__(self):
-        self.name = "Suraj Rao"
-        self.username = "SonuSuraj1807"
-        self.location = "India 🇮🇳 (timezone: when the training epoch completes)"
-        self.iq = float('inf')  # overfitting to intelligence
-        self.accuracy = "99.9% on training set (don't ask about validation)"
-        self.brain = "runs on deep parallel epochs"
-        self.coffee_consumed_today = 99999
-        self.bugs_created = self.bugs_fixed + 1  # always one epoch ahead 😤
-        self.mass_skills = ["Data Wrangling", "Overfitting", "Jarvis Automation", "3AM Debugging"]
-        
-    def get_daily_schedule(self):
-        return {
-            "06:00": "Check if model crashed overnight. It did. Re-run with smaller batch size.",
-            "09:00": "Wake up. Open VS Code. Regret.",
-            "09:05": "Search 'how to change legend position in matplotlib' for the 50th time",
-            "10:00": "Attend class/meeting. Camera off. Importing pandas as pd under the blanket.",
-            "12:00": "Lunch (actually 2 hours of debugging shape dimension mismatches)",
-            "14:00": "Write 50 lines of code. Get 100 shape errors.",
-            "15:30": "Coffee round 2. Solved 1 bug, broke 3 APIs.",
-            "18:00": "'Just one more epoch' — the biggest lie in deep learning",
-            "22:00": "Find a bug. It was a typo in a variable name from 3 months ago.",
-            "03:00": "Still debugging. Questioning why I didn't major in farming.",
-            "04:00": "ACCURACY: 98%!! *touches absolutely nothing ever again*"
-        }
-    
-    def introduction(self):
-        return "I train neural networks, automate shopping bots, and occasionally build frontends."
-    
-    def superpower(self):
-        return "I can debug PyTorch shape errors in my sleep (the code still won't run though)"
+```bash
+$ curl -s https://api.surajrao.dev/profile | jq .
+```
+```json
+{
+  "name": "Suraj Rao",
+  "title": "Data Scientist & Full Stack Engineer",
+  "location": "India 🇮🇳",
+  "timezone": "IST (or whenever the epoch finishes)",
+  "status": "Training model in production...",
+  "caffeine_level": "98.7%",
+  "sleep_deprivation": "true",
+  "special_attributes": {
+    "Smart India Hackathon 24": "Top 10 Finalist 🏆",
+    "Jarvis System Core": "Voice assistant successfully automated 🤖",
+    "Div Centering Ability": "50% accuracy on first attempt 🤡"
+  }
+}
 ```
 
 ---
 
 <div align="center">
 
-## 🎬 My Life As A Developer — The Movie
+## 🛠️ Data Science Pipeline Simulation
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="200">
+<td align="center" width="220">
 
-### 🎬 Act 1: "The Awakening"
+### 📥 1. Ingestion
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="180">
+<br><br>
+`df = pd.read_csv()`
 <br>
-*Opens Jupyter Notebook*
+*Loads 10M rows*
 <br>
-*Sees 47 shape errors*
+*CSV is corrupted*
 <br>
 *"This is fine"* 🔥
 
 </td>
-<td align="center" width="200">
+<td align="center" width="220">
 
-### 🎬 Act 2: "The Struggle"
+### 🧹 2. Wrangling
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180">
+<br><br>
+`df.dropna()`
 <br>
-*Tries to fix 1 bug*
+*Drops 90% of rows*
 <br>
-*Creates 7 more*
+*Data is empty now*
 <br>
 *"I'm a genius"* 🧠
 
 </td>
-<td align="center" width="200">
+<td align="center" width="220">
 
-### 🎬 Act 3: "The Denial"
+### 🧠 3. Training
 <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="180">
+<br><br>
+`model.fit()`
 <br>
-*Googles error message*
-<br>
-*First result from 2011*
-<br>
-*Still works* 💀
-
-</td>
-<td align="center" width="200">
-
-### 🎬 Act 4: "The Miracle"
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180">
-<br>
-*`warnings.filterwarnings('ignore')`*
-<br>
-*EVERYTHING WORKS*
-<br>
-*I'M A GOD* ⚡
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 😂 DEVELOPER STRESS RELIEF ZONE 😂
-### (You Need This. Trust Me.)
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
-
-</div>
-
-<details>
-<summary>🤣 Click here if your model doesn't converge (spoiler: it never does)</summary>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif" width="300">
-
-<br>
-
-**Data Scientist Therapy Session:**
-
-```
-🩺 Doctor: "Where does it hurt?"
-💻 Me: *points at NaN loss*
-
-🩺 Doctor: "How long has this been going on?"
-💻 Me: "Since I started training"
-
-🩺 Doctor: "Have you tried reducing the learning rate?"
-💻 Me: "That's... that's my whole personality"
-
-🩺 Doctor: "I'm prescribing you some rest"
-💻 Me: "ERROR: GPU out of memory during rest"
-```
-
-</div>
-
-</details>
-
-<details>
-<summary>🧘 Click here for Developer Meditation (You'll Need It)</summary>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="300">
-
-```
-🧘 Close your eyes...
-🧘 Take a deep breath...
-🧘 Repeat after me:
-
-"The NaN loss is not my fault"
-"The data was already biased"
-"Overfitting is just extreme learning"
-
-...
-
-"Okay maybe it is my fault"
-"But I refuse to accept it"
-"random_state=42 will fix everything"
-"If not, add another Dropout layer"
-"May the CUDA compiler compile"
-```
-
-</div>
-
-</details>
-
-<details>
-<summary>🎰 Click for a Random Meme That Describes My Life</summary>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<b>"Works on my local GPU"</b><br>
-<img src="https://media.giphy.com/media/NV4cSrRYXXwfUcYnua/giphy.gif" width="200">
-</td>
-<td align="center">
-<b>"Just restart the kernel"</b><br>
-<img src="https://media.giphy.com/media/KEYEpIngcmXlHetDqz/giphy.gif" width="200">
-</td>
-<td align="center">
-<b>"I'll let the model train overnight"</b><br>
-<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="200">
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>"Reading my own code after 2 weeks"</b><br>
-<img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" width="200">
-</td>
-<td align="center">
-<b>"When the validation loss actually drops"</b><br>
-<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="200">
-</td>
-<td align="center">
-<b>"When GPU memory is at 99%"</b><br>
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="200">
-</td>
-</tr>
-</table>
-
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-## 🧪 Data Science Report Card
-
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                   🏫 SURAJ'S REPORT CARD                    ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  PyTorch & Pandas:      A+++ (can import like a boss)        ║
-║  GPU Wrangling:         S-TIER (knows how to watch nvidia-smi)║
-║  Copy-Paste from SO:    LEGENDARY                             ║
-║  Actually Reading Docs: F- (who needs documentation?)         ║
-║  Coffee Consumption:    CRITICAL HIGH ☕☕☕☕☕               ║
-║  Sleep Schedule:        ERROR 404                             ║
-║  Centering Divs:        D- (why are they so hard?)            ║
-║  Git Commits:           "fixed error" "fixed again" "please"  ║
-║  Variable Naming:       df, df2, df_final, df_real_final      ║
-║  Hackathon Attendance: Present (camera off, typing fast)     ║
-║  Overfitting Level:     Over 9000 🧠💥                       ║
-║                                                              ║
-║  Overall Grade: A+ (self-graded, obviously)                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-## 🤯 The 5 Stages of Training a Model (Starring Me)
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="180">
-
-**1️⃣ DENIAL**
-<br>
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150">
-<br>
-*"There's no way*
-*my model has*
-*0% accuracy,*
-*the tester is wrong"*
-
-</td>
-<td align="center" width="180">
-
-**2️⃣ ANGER**
-<br>
-<img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif" width="150">
-<br>
-*"WHO FORGOT TO*
-*NORMALIZE THE*
-*INPUT DATA?!"*
-<br>
-*git blame: it was me*
-
-</td>
-<td align="center" width="180">
-
-**3️⃣ BARGAINING**
-<br>
-<img src="https://media.giphy.com/media/uA8WItRYSRkfm/giphy.gif" width="150">
-<br>
-*"Dear God, if this*
-*loss drops under 0.1,*
-*I promise I'll clean*
-*the dataset"*
-
-</td>
-<td align="center" width="180">
-
-**4️⃣ DEPRESSION**
-<br>
-<img src="https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif" width="150">
+*GPU heats up*
 <br>
 *CUDA out of memory*
 <br>
-*Opens LinkedIn*
-<br>
-*Farming looks nice...*
+*Sanity: 0%* 💀
 
 </td>
-<td align="center" width="180">
+<td align="center" width="220">
 
-**5️⃣ ACCEPTANCE**
+### 🚀 4. Deployment
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180">
+<br><br>
+`ignore_warnings()`
 <br>
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
+*Validation loss is NaN*
 <br>
-*`lr = 0.0`*
+*Accuracy: 99.9%*
 <br>
-*"Look, the loss*
-*is completely stable!"*
-<br>
-*Ships it* 🚀
+*It ships!* ⚡
 
 </td>
 </tr>
@@ -422,98 +118,87 @@ class SurajRao(DataScientist, FullStackDeveloper, CaffeineDependentLifeForm):
 
 <div align="center">
 
-## 🏆 My GitHub Trophy Cabinet (Yes, I'm Flexing HARD)
-
-💪 *Behold my achievements* 💪
-
-<img src="https://github-profile-trophy.vercel.app/?username=SonuSuraj1807&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" />
-
-<img src="https://media.giphy.com/media/3o6fJ1BM7R2EBRDnxK/giphy.gif" width="200">
+## 📊 Developer Metrics (df.describe())
 
 </div>
+
+```bash
+$ python -c "import suraj; print(suraj.describe())"
+```
+
+| Statistic | Sleep (hours) | Coffee (cups) | Model Accuracy (%) | Centered Divs (%) | Active StackOverflow Tabs |
+|---|---|---|---|---|---|
+| **count** | 365.0 | 365.0 | 365.0 | 365.0 | 365.0 |
+| **mean** | 3.4 | 5.2 | 98.7 *(overfitted)* | 12.5 | 47.0 |
+| **std** | 1.2 | 1.8 | 45.2 | 8.1 | 12.4 |
+| **min** | 0.0 *(hackathon night)* | 1.0 *(lazy Sunday)* | 0.0 *(syntax error)* | 0.0 *(CSS is hard)* | 5.0 |
+| **25%** | 2.5 | 4.0 | 85.0 | 5.0 | 35.0 |
+| **50%** | 3.5 | 5.0 | 95.0 | 10.0 | 45.0 |
+| **75%** | 4.0 | 6.5 | 99.0 | 15.0 | 55.0 |
+| **max** | 8.0 *(GPU caught fire)* | 12.0 *(SIH 24 finals)* | 100.0 *(training set only)* | 100.0 *(flexbox copied)* | 150.0 |
 
 ---
 
 <div align="center">
 
-## 📊 Stats That Prove I Have No Life Outside Code (And I'm Proud)
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SonuSuraj1807&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=F8D866&text_color=FFFFFF&ring_color=FF6EC7" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SonuSuraj1807&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=F8D866&currStreakLabel=FF6EC7" />
-
-<br>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuSuraj1807&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8" />
-
-<br>
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCJ8dO8dW/giphy.gif" width="200">
-
-<sub>*These numbers are real. My model validation accuracy isn't.*</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph (Sleep Deprivation Visualized In Real-Time)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuSuraj1807&bg_color=0D1117&color=FF6EC7&line=F8D866&point=FFFFFF&area=true&area_color=FF6EC7&hide_border=true&custom_title=Suraj's%20Contribution%20Graph%20(aka%20Proof%20I%20Need%20Help%20%F0%9F%86%98)" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Tech Stack (Things I Pretend to Know)
-
-<img src="https://media.giphy.com/media/juua9i2c4fYQE/giphy.gif" width="300">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=py,js,html,css,react,nextjs,nodejs,express,mysql,postgres,mongodb,git,github,vscode,tailwind,bootstrap&perline=8" />
-<br>
-<img src="https://skillicons.dev/icons?i=flask,django,docker,aws,linux,postman,firebase,vercel,netlify,npm,anaconda,jupyter,scikit-learn,tensorflow,pytorch,opencv&perline=8" />
-
-<br>
-
-> 💡 *I know all of these.* **\*narrator: he knows Python, Javascript, and centering divs (sometimes)\***
-
-</div>
-
----
-
-<div align="center">
-
-## 🎪 The Error Message Hall of Fame (My Greatest Hits Album)
+## 🖥️ System Configurations & Diagnostic Diagnostics
 
 </div>
 
 <details>
-<summary>🏆 Click to see my beautiful collection of failures</summary>
+<summary>⚙️ cat diagnostics.log</summary>
 
 <br>
 
-<div align="center">
-<img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="250">
-</div>
+```
+[FATAL] ImposterSyndromeException: Brain is convinced that all code was copied from StackOverflow.
+  at SurajRao.write_code(main.py:127)
+  at SurajRao.attend_meeting(zoom.exe:42)
+  at SurajRao.simulate_intelligence(life.py:3)
+[WARN] CoffeeDepletionWarning: Caffeine levels dropped below 15%. Initiating sleep_mode is prohibited.
+[INFO] Memory utilization: 95% stackoverflow cache, 4% meme database, 1% actual math.
+[SUCCESS] minimized loss function, maximized regret function.
+```
+
+</details>
+
+<details>
+<summary>🧠 view hyperparameters.config</summary>
 
 <br>
 
-| # | Error | My Reaction | My "Solution" | Time Spent |
-|---|-------|-------------|---------------|------------|
-| 1 | `ValueError: shapes (10, 5) and (10, 5) not aligned` | 😱 "WHAT" | `.T` transposed random matrix | 4 hours |
-| 2 | `OutOfMemoryError: CUDA out of memory` | 💀 *soul leaves body* | `batch_size = 1` | 6 hours |
-| 3 | `NameError: name 'pd' is not defined` | 🤡 "But I JUST ran that cell" | Run all cells above | 2 hours |
-| 4 | `TypeError: 'NoneType' object is not subscriptable` | 😤 "Python you LIAR" | Added a try-except block of shame | 3 hours |
-| 5 | `Segmentation fault (core dumped)` | 🪦 *writes will* | Googled "farming jobs near me" | 8 hours |
-| 6 | `git merge conflict` | 🔥🔥🔥 | `git reset --hard` and cried | 5 hours |
-| 7 | `Loss is NaN` | 📉 "WHY" | Lowered learning rate to `1e-9` | 6 hours |
-| 8 | `Maximum call stack size exceeded` | 🌀 | Infinite recursion of regret | forever |
-| 9 | `CORS error` | 🤬 "NOT AGAIN" | Access-Control-Allow-Origin: * | 12 hours |
-| 10 | `Cannot find module 'happiness'` | 😢 | Still searching... | ongoing |
+```json
+{
+  "learning_rate": 0.001,
+  "optimizer": "Adam (mostly Coffee)",
+  "dropout_rate": 0.99,
+  "loss_function": "MeanSquaredRegret (MSR)",
+  "epochs": 9999,
+  "gpu_heating_efficiency": "room_heater_equivalent",
+  "regularization": "warnings.filterwarnings('ignore')"
+}
+```
+
+</details>
+
+<details>
+<summary>🎮 ./play_simulation.sh --verbose</summary>
+
+<br>
+
+```bash
+[06:00] [SYSTEM] Model training finished with NaN loss. Regret levels rising.
+[09:00] [SYSTEM] Initializing awake_routine.sh... Regret levels critical.
+[09:05] [BROWSER] Searching stackoverflow: "how to change legend position in matplotlib"
+[10:00] [NETWORK] Joined lecture/meeting. State: Mute, Camera Off. Importing pandas as pd.
+[12:00] [SYSTEM] Lunch break. Spent 2 hours resolving a 1D vs 2D array matrix dimension error.
+[14:00] [CODE] Added a dense layer. Created 5 new tensor shape errors.
+[15:30] [SYSTEM] Re-routing coffee intake. Sanity level temporarily boosted.
+[18:00] [CODE] 'Just one more epoch' executed. System loop infinite.
+[22:00] [SYSTEM] Solved a bug. It was a spelling error in self.bugs_created.
+[03:00] [SYSTEM] Searching Google for: "farming startup ideas for data scientists"
+[04:00] [SYSTEM] Accuracy is now 98%. Touched nothing. System locked.
+```
 
 </details>
 
@@ -521,47 +206,20 @@ class SurajRao(DataScientist, FullStackDeveloper, CaffeineDependentLifeForm):
 
 <div align="center">
 
-## 🎯 Current Life Status (100% Real, 0% Cap)
+## ⚡ Integrated Tech Stack
 
 </div>
 
-```
-██████████████████████████████  99%  Model Training & Overfitting
-█████████████████████████████░  95%  Being Absolutely HILARIOUS
-████████████████████████████░░  90%  Questioning Every Life Choice
-██████████████████████████░░░░  85%  Pretending I Know What I'm Doing
-███████████████████████░░░░░░░  75%  Coffee In My Veins ☕☕☕
-████████████████████░░░░░░░░░░  65%  Looking at loss curves
-█████████████████░░░░░░░░░░░░░  55%  Making Memes Instead of Studying
-████████████░░░░░░░░░░░░░░░░░░  40%  Imposter Syndrome (it's real folks)
-████████░░░░░░░░░░░░░░░░░░░░░░  27%  Sleep (optional DLC I can't afford)
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7%  Touching Grass
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%  Reading Documentation  
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%  Having a Normal Sleep Schedule
-```
+<div align="left">
 
----
+### 📊 Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=py,anaconda,jupyter,scikit-learn,tensorflow,pytorch,opencv&perline=8" />
 
-<div align="center">
+### 🌐 Web & Full Stack Development
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,mysql,postgres,mongodb&perline=8" />
 
-## 😂 When People Ask "What Do You Do For Fun?"
-
-<table>
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="230">
-<br><b>Me: "I build Jarvis for fun!"<br>Also me building Jarvis:</b>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="230">
-<br><b>When someone says "data science<br>is just Excel" in front of me</b>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="230">
-<br><b>Me at Hackathons at 4 AM</b>
-</td>
-</tr>
-</table>
+### 🛠️ Systems & Developer Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode,figma,postman,vercel,netlify,npm&perline=8" />
 
 </div>
 
@@ -569,7 +227,63 @@ class SurajRao(DataScientist, FullStackDeveloper, CaffeineDependentLifeForm):
 
 <div align="center">
 
-## 🐍 Watch This Snake Devour My Contributions (Like Bugs Devour My Code)
+## 📝 Exception Handling Database
+
+</div>
+
+```bash
+$ cat errors_report.log
+```
+
+| Exception ID | Exception Type | Reaction | Workaround / Solution | Dev Sanity Loss |
+|---|---|---|---|---|
+| `#01` | `ValueError: shapes not aligned` | 😱 *eyes dilate* | `.T` transposed random matrix | 4 hours |
+| `#02` | `CUDA out of memory` | 💀 *soul exits body* | `batch_size = 1` | 6 hours |
+| `#03` | `NameError: name 'pd' is not defined` | 🤡 "But I imported it" | Run all Jupyter cells above | 2 hours |
+| `#04` | `NoneType object is not subscriptable` | 😤 *blames compiler* | Wrapped code inside try-except | 3 hours |
+| `#05` | `git merge conflict` | 🔥 *closing noise* | `git reset --hard` & cried | 5 hours |
+| `#06` | `Loss is NaN` | 📉 *stares into blank* | Lowered learning rate to `1e-9` | 6 hours |
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Diagnostic Logs (Trophy Cabinet)
+
+<img src="https://github-profile-trophy.vercel.app/?username=SonuSuraj1807&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Analytics Dashboard
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SonuSuraj1807&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=FFD700&text_color=FFFFFF&ring_color=00BFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SonuSuraj1807&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=FFD700&currStreakLabel=00BFFF" />
+
+<br>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuSuraj1807&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 System Activity (Contribution Graph)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuSuraj1807&bg_color=0D1117&color=00BFFF&line=FFD700&point=FFFFFF&area=true&area_color=00BFFF&hide_border=true&custom_title=System%20Activity%20(Contribution%20Graph)" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Grid Devourer (Snake Game)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SonuSuraj1807/SonuSuraj1807/output/github-contribution-grid-snake-dark.svg" />
@@ -583,21 +297,20 @@ class SurajRao(DataScientist, FullStackDeveloper, CaffeineDependentLifeForm):
 
 <div align="center">
 
-## 💬 Quotes That Live In My Head Rent-Free
+## 💬 Quotes Cached In Memory
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-
-<br>
-
-> *"It works on my machine"* — Every developer ever  
-> *"I'll document this model later"* — Me, 3 years ago  
-> *"Just one more epoch before bed"* — Famous last words at 2 AM. It's now 7 AM.  
-> *"I'm not addicted to coffee"* — Me, drinking my 5th cup at 4 AM  
-> *"99 little bugs in the code... Take one down, patch it around... 127 little bugs in the code"* — My life story  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
 <br>
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23FF6EC7&aColor=%23F8D866" alt="Jokes Card" width="500" />
+> *"It works on my local container"* — Every container engineer ever  
+> *"I'll document this model later"* — Me, 2 semesters ago  
+> *"Just one more training epoch before bed"* — Famous last words at 2 AM.  
+> *"99 little bugs in the model... regularize it... NaN loss"* — My life story  
+
+<br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%2300BFFF&aColor=%23FFD700" alt="Jokes Card" width="500" />
 
 </div>
 
@@ -606,51 +319,32 @@ class SurajRao(DataScientist, FullStackDeveloper, CaffeineDependentLifeForm):
 <div align="center">
 
 <!-- ANIMATED VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=SonuSuraj1807&style=for-the-badge&color=FF6EC7&label=PROFILE+STALKERS+👀" />
+<img src="https://komarev.com/ghpvc/?username=SonuSuraj1807&style=for-the-badge&color=00BFFF&label=SYSTEM+INTRUDERS+👀" />
 
 <br><br>
 
-<!-- MEME: This is fine -->
-<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="250">
-
-<br>
-
-### 🚨 ATTENTION: You've scrolled this far. There's no going back. 🚨
-
-<br>
-
 ```
-                    🏆 CONGRATULATIONS! 🏆
+                  🖥️ END OF LOGS REACHED 🖥️
     ┌─────────────────────────────────────────────┐
     │                                             │
-    │   You've reached the bottom of my README!   │
+    │   Thank you for monitoring this terminal!   │
     │                                             │
-    │   Your reward:                              │
+    │   Actions Required:                         │
     │                                             │
-    │   ⭐ Star my repos                           │
-    │   👀 Follow me                              │
-    │   🍕 Send pizza                             │
-    │   💰 Send more GPU compute power            │
-    │                                             │
-    │   (just kidding about the last two)         │
-    │   (or am I? 👀)                             │
+    │   ⭐ Star my repositories                   │
+    │   👀 Follow this account                    │
+    │   🍕 Send GPU computational credits         │
     │                                             │
     └─────────────────────────────────────────────┘
 ```
 
 <br>
 
-<!-- ANIMATED JOKE -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23FF6EC7&aColor=%23F8D866" alt="Jokes Card" width="500" />
-
-<br>
-
-<!-- ANOTHER JOKE API -->
+<!-- JOKES CARD -->
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%2300BFFF&aColor=%23FFD700" alt="Jokes Card 2" width="500" />
 
 <br><br>
 
-<!-- FINAL MEME -->
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="300">
 
 <br>
@@ -659,5 +353,5 @@ class SurajRao(DataScientist, FullStackDeveloper, CaffeineDependentLifeForm):
 
 </div>
 
-<!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20visiting!%20Now%20go%20touch%20some%20grass%20🌱&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<!-- WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Shutdown%20successful.%20Go%20touch%20some%20grass%20🌱&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
